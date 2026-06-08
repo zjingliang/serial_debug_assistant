@@ -1,0 +1,4 @@
+# Serial Debug Assistant — runtime dependencies
+# Python 3.8+ recommended; tkinter is part of the standard library (install via OS / conda on some Linux builds).
+
+pyserial>=3.5,<4
